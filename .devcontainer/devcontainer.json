@@ -7,7 +7,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"edwinhuish.better-comments-next"
+				"edwinhuish.better-comments-next",
+				"svelte.svelte-vscode"
 			]
 		}
 	}
